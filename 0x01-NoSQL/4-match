@@ -1,0 +1,2 @@
+// Scriptlisting docs with the given name in the collection school
+db.school.find({name: { $eq: 'Holberton school' }});

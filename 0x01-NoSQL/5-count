@@ -1,0 +1,2 @@
+// Script displaying number of docs in the collection school
+db.school.count();
